@@ -65,7 +65,7 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Penjelasan",
       "title": "Apa Itu Sholat Witir?",
       "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626969805.jpg",
       "description": "Shalat sunnah witir adalah salah satu shalat sunnah mu’akkad",
@@ -73,7 +73,7 @@
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Penjelasan",
       "title": "Ketentuan Waktu Shalat Witir",
       "image": "https://muhammadiyah.or.id/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-14-at-15.48.15-750x375.jpeg",
       "description": "Menurut mayoritas ulama, sebagaimana yang dikutip oleh Syekh Wahbah Zuhaili dalam kitab al-Fiqhul Islami wa Adillatuh, yaitu dimulai setelah melaksanakan shalat Isya’ sampai terbitnya fajar shadiq, dan bukan setelah masuknya shalat Isya’.",
@@ -81,7 +81,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Penjelasan",
       "title": "Jumlah Rakaat dan Bacaan Shalat Witir",
       "image": "https://cdn-2.tstatic.net/kupang/foto/bank/images/bacaan-doa-dan-dzikir-setelah-sholat-subuh.jpg",
       "description": "Secara umum, shalat sunnah witir tidak mempunyai hitungan jumlah rakaat secara khusus",
@@ -89,7 +89,7 @@
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Tutorial",
       "title": "Tata Cara Melakukan Shalat Witir",
       "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626699426.jpg",
       "description": "Sebagaimana ketentuan shalat sunnah pada umumnya, shalat witir juga mempunyai syarat dan rukun yang harus dipenuhi",
@@ -97,7 +97,7 @@
     },
     {
       "id": 5,
-      "name_category": "Reskin",
+      "name_category": "Bacaan",
       "title": "Doa Setelah Megerjakan Shalat Witir",
       "image": "https://img.inews.co.id/media/600/files/inews_new/2022/03/07/waktu_sholat_taubat.jpg",
       "description": " Setelah melakukan shalat witir dianjurkan untuk membaca dzikir",
@@ -105,7 +105,7 @@
     },
     {
       "id": 6,
-      "name_category": "Reskin",
+      "name_category": "Bacaan",
       "title": "Keutamaan Shalat Witir",
       "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626699426.jpg",
       "description": "Ada banyak teks-teks hadits Rasulullah ﷺ yang menyebutkan keutamaan shalat witir",
