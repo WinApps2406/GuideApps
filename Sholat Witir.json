@@ -1,0 +1,115 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Sticker WA Puasa Ramadhan 2023",
+      "image": "https://play-lh.googleusercontent.com/HXUS_IoHMpLYOJCIql1VzA-rqwgB1MOSeYofnw-XeTp6bSDNfvgEw1NGF4EQQzEJuZ8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwapuasaramadhan"
+    },
+    {
+      "id": 2,
+      "title": "Stiker Lebaran Idul Fitri 2023",
+      "image": "https://play-lh.googleusercontent.com/bAkqe1I9UjA-KAFYiMeuJznLTCy90G60Hg4Jfqs4JsKowv6BzJ8KLpPpmNGO5QWNgqNZ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwalebaranidulfitri"
+    },
+    {
+      "id": 3,
+      "title": "Sticker Hijab Muslimah for WA",
+      "image": "https://play-lh.googleusercontent.com/IgjwG8QW5LN_UJNJSw5KHk1cZ_cfWCXdJGUbxOloBA0AShca69kj1Ozn_1bG155Pjw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerhijabmuslimahforwa"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Apa Itu Sholat Witir?",
+      "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626969805.jpg",
+      "description": "Shalat sunnah witir adalah salah satu shalat sunnah mu’akkad",
+      "link": "https://guideappsofficial.blogspot.com/p/apa-itu-sholat-witir.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Ketentuan Waktu Shalat Witir",
+      "image": "https://muhammadiyah.or.id/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-14-at-15.48.15-750x375.jpeg",
+      "description": "Menurut mayoritas ulama, sebagaimana yang dikutip oleh Syekh Wahbah Zuhaili dalam kitab al-Fiqhul Islami wa Adillatuh, yaitu dimulai setelah melaksanakan shalat Isya’ sampai terbitnya fajar shadiq, dan bukan setelah masuknya shalat Isya’.",
+      "link": "https://guideappsofficial.blogspot.com/p/ketentuan-waktu-shalat-witir.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Jumlah Rakaat dan Bacaan Shalat Witir",
+      "image": "https://cdn-2.tstatic.net/kupang/foto/bank/images/bacaan-doa-dan-dzikir-setelah-sholat-subuh.jpg",
+      "description": "Secara umum, shalat sunnah witir tidak mempunyai hitungan jumlah rakaat secara khusus",
+      "link": "https://guideappsofficial.blogspot.com/p/jumlah-rakaat-dan-bacaan-shalat-witir.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Tata Cara Melakukan Shalat Witir",
+      "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626699426.jpg",
+      "description": "Sebagaimana ketentuan shalat sunnah pada umumnya, shalat witir juga mempunyai syarat dan rukun yang harus dipenuhi",
+      "link": "https://guideappsofficial.blogspot.com/p/tata-cara-melakukan-shalat-witir.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Doa Setelah Megerjakan Shalat Witir",
+      "image": "https://img.inews.co.id/media/600/files/inews_new/2022/03/07/waktu_sholat_taubat.jpg",
+      "description": " Setelah melakukan shalat witir dianjurkan untuk membaca dzikir",
+      "link": "https://guideappsofficial.blogspot.com/p/doa-setelah-megerjakan-shalat-witir.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Keutamaan Shalat Witir",
+      "image": "https://storage.nu.or.id/storage/post/16_9/mid/1626699426.jpg",
+      "description": "Ada banyak teks-teks hadits Rasulullah ﷺ yang menyebutkan keutamaan shalat witir",
+      "link": "https://guideappsofficial.blogspot.com/p/keutamaan-shalat-witir.html"
+    }
+  ]
+}
