@@ -1,0 +1,123 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Sticker WA Puasa Ramadhan 2023",
+      "image": "https://play-lh.googleusercontent.com/HXUS_IoHMpLYOJCIql1VzA-rqwgB1MOSeYofnw-XeTp6bSDNfvgEw1NGF4EQQzEJuZ8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwapuasaramadhan"
+    },
+    {
+      "id": 2,
+      "title": "Stiker Lebaran Idul Fitri 2023",
+      "image": "https://play-lh.googleusercontent.com/bAkqe1I9UjA-KAFYiMeuJznLTCy90G60Hg4Jfqs4JsKowv6BzJ8KLpPpmNGO5QWNgqNZ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwalebaranidulfitri"
+    },
+    {
+      "id": 3,
+      "title": "Sticker Hijab Muslimah for WA",
+      "image": "https://play-lh.googleusercontent.com/IgjwG8QW5LN_UJNJSw5KHk1cZ_cfWCXdJGUbxOloBA0AShca69kj1Ozn_1bG155Pjw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerhijabmuslimahforwa"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Pengertian",
+      "title": "Pengertian Sholat Tarawih",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5l3S0pPni5OLGBWrsM1urIvMWhn1jWNv8TODSrdAydY6CyUpPSaD5lA33fENr2w7TrlrEwCytJKKnOE-sIibi38qNHvWnKwTuuE0rQXXvEb1gBmuPKGT-alA-6WpYJee0kUBIzBPRch4XNmsbQRpheBjtNFTkEBoHGED6IP42oYTX-K4XMgoxEMYC/w400-h310/Sholat%20Tarawih.jpg",
+      "description": "Salat Tarawih (kadang-kadang disebut Teraweh, Taraweh, atau Tarwih) adalah salat sunah yang dilakukan khusus hanya pada bulan Ramadan",
+      "link": "https://guideappsofficial.blogspot.com/p/pengertian-sholat-tarawih.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Bacaan",
+      "title": "Niat Salat Tarawih",
+      "image": "https://teknowarta.com/wp-content/uploads/2022/04/Niat-Sholat-Tarawih-Sendiri-dan-Berjamaah.jpg",
+      "description": " Niat merupakan salah satu rukun sholat tarawih yang jika tidak dilakukan maka shalatnya tidak sah",
+      "link": "https://guideappsofficial.blogspot.com/p/niat-salat-tarawih.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Tuntunan Salat Tarawih",
+      "image": "https://islami.co/wp-content/uploads/2016/06/49.jpg",
+      "description": "Berikut adalah tata cara sholat tarawih",
+      "link": "https://guideappsofficial.blogspot.com/p/tuntunan-salat-tarawih.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Pengetahuan",
+      "title": "Rakaat Salat Tarawih",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2020/04/23/ed3f9364-8891-4d6f-ab8b-cf866378a903_43.jpeg?w=1200",
+      "description": "Sholat tarawih terdiri dari 11 atau 23 rakaat",
+      "link": "https://guideappsofficial.blogspot.com/p/rakaat-salat-tarawih.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Pengetahuan",
+      "title": "Doa Setelah Sholat Tarawih",
+      "image": "https://assets.pikiran-rakyat.com/crop/7x138:959x845/x/photo/2020/11/03/1385768883.png",
+      "description": "Setelah selesai menunaikan ibadah sholat tarawih, umat muslim dianjurkan untuk membaca doa.",
+      "link": "https://guideappsofficial.blogspot.com/p/doa-setelah-sholat-tarawih.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Pengetahuan",
+      "title": "Keutamaan Salat Tarawih",
+      "image": "https://pict.sindonews.net/dyn/960/salsabila/slider/2022/04/14781/keutamaan-dan-pahala-shalat-tarawih-di-bulan-ramadan-ywu.jpg",
+      "description": "Keutamaan sholat tarawih ada banyak sehingga meski berjenis sunnah",
+      "link": "https://guideappsofficial.blogspot.com/p/keutamaan-salat-tarawih.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Pengetahuan",
+      "title": "Hukum Salat Tarawih",
+      "image": "https://www.hasmi.org/wp-content/uploads/2017/06/Sholat-Tarawih.jpg",
+      "description": "Shalat tarawih adalah shalat yang khusus dikerjakan pada malam bulan Ramadan",
+      "link": "https://guideappsofficial.blogspot.com/p/hukum-salat-tarawih.html"
+    
+  ]
+}
