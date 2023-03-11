@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Wallpaper Tipe X Trondol Viral",
+      "image": "https://play-lh.googleusercontent.com/aCbCcwkPyWUQQiOFuBrpmUOHD5_xhqHDQMdS8S55KhrTfQ6GddxfUelxWWSUEMOeayw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.wallpapertipextrondolviral"
+    },
+    {
+      "id": 2,
+      "title": "Wallpaper Sunset 4K",
+      "image": "https://play-lh.googleusercontent.com/snrmRASFpk0NqbanCVYFzTdkqO4VEKCeD5oiKZk8aMojOhAlwLJ0FNAeMNFsq9eR0IQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.wallpapersunset4k"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Pengertian",
+      "title": "Pengertian TipeX Trondol",
+      "image": "https://assets.suaramerdeka.com/crop/0x0:0x0/750x500/webp/photo/2023/02/28/TipeX-735419933.png",
+      "description": "Lato-lato rupanya memiliki saingan yaitu tipe-X trondol",
+      "link": "https://guideappsofficial.blogspot.com/p/pengertian-tipex-trondol.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Bahan Untuk Membuat TipeX Trondol",
+      "image": "https://mmc.tirto.id/image/otf/500x0/2023/02/27/ilustrasi-tipe-x-trodol-istock-1431973296_ratio-16x9.jpg",
+      "description": "Bahan untuk membuat TipeX Trondol sebagai berikut: ",
+      "link": "https://guideappsofficial.blogspot.com/p/bahan-untuk-membuat-tipex-trondol.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Membuat TipeX Trondol",
+      "image": "https://radargarut.jabarekspres.com/wp-content/uploads/2023/02/TIPE-X-TRONDOL-RACING-VIRAL.jpg",
+      "description": "Cara membuat TipeX Trondol sebagai berikut: ",
+      "link": "https://guideappsofficial.blogspot.com/p/cara-membuat-tipex-trondol.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Sejarah",
+      "title": "Asal Usul TipeX",
+      "image": "https://i0.wp.com/shandyus.com/wp-content/uploads/2023/02/Screenshot_104.png?resize=566%2C665&ssl=1",
+      "description": "Tipe-x atau Tipp-Ex adalah sebuah merek dagang cairan pengoreksi dan produk terkait lainnya yang populer",
+      "link": "https://guideappsofficial.blogspot.com/p/asal-usul-tipex.html"
+    }
+  ]
+}
