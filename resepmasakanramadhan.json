@@ -1,0 +1,177 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Sticker WA Puasa Ramadhan 2023",
+      "image": "https://play-lh.googleusercontent.com/HXUS_IoHMpLYOJCIql1VzA-rqwgB1MOSeYofnw-XeTp6bSDNfvgEw1NGF4EQQzEJuZ8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwapuasaramadhan"
+    },
+    {
+      "id": 2,
+      "title": "Stiker Lebaran Idul Fitri 2023",
+      "image": "https://play-lh.googleusercontent.com/bAkqe1I9UjA-KAFYiMeuJznLTCy90G60Hg4Jfqs4JsKowv6BzJ8KLpPpmNGO5QWNgqNZ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwalebaranidulfitri"
+    },
+    {
+      "id": 3,
+      "title": "Niat & Tata Cara Sholat Witir",
+      "image": "https://play-lh.googleusercontent.com/10G9QU_qioIEelazNH8klGYvBY6zTPxGV89VwsiXPe2WhIClNN8nK2HGTDJfRdhFrFNB=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.niatsholatwitir"
+    },
+    {
+      "id": 4,
+      "title": "Panduan Sholat Tarawih",
+      "image": "https://play-lh.googleusercontent.com/gQ9swJs9l3TNzS43AFnCiHLDaOiG0H8j99VoJDOgfwz88ToRgrv_frVI5LXCnykm020=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.panduansholattarawih"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Resep",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Resep",
+      "title": "Capcay",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720137-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Capcay sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/capcay.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Resep",
+      "title": "Oseng kacang panjang",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720139-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Oseng kacang panjang sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/oseng-kacang-panjang.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Resep",
+      "title": "Soun goreng",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720140-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Soun goreng sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/soun-goreng.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Resep",
+      "title": "Cuciwis cah jamur",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720141-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Cuciwis cah jamur sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/cuciwis-cah-jamur.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Resep",
+      "title": "Asem-asem daging",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720142-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Asem-asem daging sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/asem-asem-daging.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Resep",
+      "title": "Ikan salem siram cabai petai",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720143-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Ikan salem siram cabai petai sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/ikan-salem-siram-cabai-petai.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Resep",
+      "title": "Tumis bunga pepaya",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720144-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Tumis bunga pepaya sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/tumis-bunga-pepaya.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Resep",
+      "title": "Cah kangkung bakso",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720151-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Cah kangkung bakso sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/cah-kangkung-bakso.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Resep",
+      "title": "Udang pedas manis",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720145-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Udang pedas manis sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/udang-pedas-manis.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Resep",
+      "title": "Ayam kecap",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2020/04/20/182810/1720146-menu-buka-puasa-ramadhan-2022.jpg",
+      "description": "Bahan dan cara membuat Ayam kecap sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/ayam-kecap.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Resep",
+      "title": "es cendol alpukat",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2022/10/11/239205/resep-es-cendol-alpukat-segar-enak-dan-bernutrisi-221011d.jpg",
+      "description": "Bahan dan cara membuat es cendol alpukat sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/es-cendol-alpukat_14.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Resep",
+      "title": "es krim santan buah naga",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2022/10/06/238872/resep-es-krim-santan-buah-naga-rumahan-sehat-dan-tanpa-pemanis-buatan-221006i.jpg",
+      "description": "Bahan dan cara membuat es krim santan buah naga sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/es-krim-santan-buah-naga.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Resep",
+      "title": "es teler",
+      "image": "https://cdn-brilio-net.akamaized.net/webp/news/2022/04/26/228219/1731550-1000xauto-resep-es-teler-untuk-buka-puasa.jpg",
+      "description": "Bahan dan cara membuat es teler sebagai berikut",
+      "link": "https://guideappsofficial.blogspot.com/p/es-teler.html"
+    }
+  ]
+}
