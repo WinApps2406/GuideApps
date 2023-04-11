@@ -1,0 +1,101 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Panduan Sholat Tarawih",
+      "image": "https://play-lh.googleusercontent.com/gQ9swJs9l3TNzS43AFnCiHLDaOiG0H8j99VoJDOgfwz88ToRgrv_frVI5LXCnykm020=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.panduansholattarawih"
+    },
+    {
+      "id": 2,
+      "title": "Resep Masakan Ramadhan Lengkap",
+      "image": "https://play-lh.googleusercontent.com/sYX0LTVJIuELlCxgHU88xTNUDM7ukcT3w_wCFFkw1AmKT4wZQ-P6kFADZFQpKxsOvBQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.resepmasakanramadhanlengkap"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "How to check your or someone else’s car insurance",
+      "image": "https://www.carguide.co.uk/wp-content/uploads/2020/10/askmid.png",
+      "description": "Most car owners are aware that you must have any vehicles registered in your name insured at all times",
+      "link": "https://guideappsofficial.blogspot.com/p/how-to-check-your-or-someone-elses-car.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "How do I know if I have a valid insurance policy?",
+      "image": "https://bobatoo.co.uk/uploads/images/askmid-how-to-check-car-insurance-5114a0b6_52c4358e.jpg",
+      "description": "Whether you’ve recently purchased a car or have had it for years",
+      "link": "https://guideappsofficial.blogspot.com/p/how-do-i-know-if-i-have-valid-insurance.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "How does askMID work?",
+      "image": "https://wvl.co.uk/wp-content/uploads/2015/04/mid-featured.jpg",
+      "description": "There is only one central database that holds information about insured vehicles in the UK: the motor insurance database",
+      "link": "https://guideappsofficial.blogspot.com/p/how-does-askmid-work.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "What if my insurance details aren't showing on askMID?",
+      "image": "https://storage.googleapis.com/ti-mustard/media-gallery/2017/06/Ask-MID.png",
+      "description": "If you’ve only recently taken out an insurance policy",
+      "link": "https://guideappsofficial.blogspot.com/p/what-if-my-insurance-details-arent.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "What else should I know about my vehicle?",
+      "image": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/4d3a3538ee68-shutterstock341724065.jpg",
+      "description": "Driving or owning a vehicle without valid insurance is illegal",
+      "link": "https://guideappsofficial.blogspot.com/p/what-if-my-insurance-details-arent.html"
+    }
+  ]
+}
