@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Panduan Sholat Tarawih",
+      "image": "https://play-lh.googleusercontent.com/gQ9swJs9l3TNzS43AFnCiHLDaOiG0H8j99VoJDOgfwz88ToRgrv_frVI5LXCnykm020=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.panduansholattarawih"
+    },
+    {
+      "id": 2,
+      "title": "Resep Masakan Ramadhan Lengkap",
+      "image": "https://play-lh.googleusercontent.com/sYX0LTVJIuELlCxgHU88xTNUDM7ukcT3w_wCFFkw1AmKT4wZQ-P6kFADZFQpKxsOvBQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.resepmasakanramadhanlengkap"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Introduction",
+      "image": "https://img.emg-services.net/htmlpages/htmlpage19133/untitled-design-71.jpg",
+      "description": "Nivalink is an online platform that provides information",
+      "link": "https://guideappsofficial.blogspot.com/p/introduction.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Registration and User Account",
+      "image": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/05/10/1433732/content_images/670x335/20220510114408-1-tempat-wisata-di-india-001-mutia-anggraini.jpg",
+      "description": "Creating a Nivalink account",
+      "link": "https://guideappsofficial.blogspot.com/p/registration-and-user-account.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Searching and Comparing Tourist Destinations",
+      "image": "https://www.gotravelly.com/blog/wp-content/uploads/2018/09/ladakh.jpg",
+      "description": "A guide on how to use Nivalink's search",
+      "link": "https://guideappsofficial.blogspot.com/p/searching-and-comparing-tourist.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Booking and Payment",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/19/1e/98/corbett-treetop-riverview.jpg?w=1200&h=-1&s=1",
+      "description": "Step-by-step guide to selecting the desired accommodation",
+      "link": "https://guideappsofficial.blogspot.com/p/booking-and-payment.html"
+    }
+  ]
+}
