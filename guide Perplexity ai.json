@@ -1,0 +1,167 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Tips For RedBox TV",
+      "image": "https://play-lh.googleusercontent.com/HjY6JJ1xCe5Bi_ctb9-gQ5I3I-2thGNfKvPQFQuL74aVFBM5PPmUjFtK11qOXLoMrDdH=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.guideredboxtv"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Perplexity AI: The Chatbot Stepping Up to Challenge ChatGPT ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRv9Cl8EoalmZJw4WOxO_xJHZSsN4eAsCmsg&usqp=CAU",
+      "description": "In the digital cafeteria where AI chatbots mingle, Perplexity AI is the scrawny new kid ready to stand up to ChatGPT ",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "What is Perplexity AI?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgdXcqeZWQnueqCpnrs9UrB7qb-Iqmr3zw&usqp=CAU",
+      "description": "Perplexity AI is an AI powered search engine that strives to improve how people look for and share knowledge",
+      "link": "https://belbuldevofficial.blogspot.com/p/p2.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Perplexity AI vs ChatGPT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNBzNgz3aeukX4EWyXZbB0NXIshm-ufHZLQ&usqp=CAU",
+      "description": "Artificial Intelligence (AI) has progressed significantly over the years, and language processing models have been among the most significant breakthroughs in this field. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Perplexity AI’s New Copilot Feature Provides More Interactive, Personalized Answers With GPT-4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4JnqnC6B2wjJnv1U8aYmnXUJ_3xq8qRAMg&usqp=CAU",
+      "description": "Generative AI chatbot startup Perplexity AI has introduced a new feature called Copilot that leverages OpenAI’s GPT-4 model to provide more personalized responses",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Perplexity AI: A thread to Google and ChatGPT?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Uvhf6AjCfWrf5riivdFJ-C9LAzfQZ4LGDg&usqp=CAU",
+      "description": "How a new AI tool developed by a small team might be the new best search tool.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Is Perplexity AI showing us the future of search?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55WKV3eFwVyV9wDQOY7V_nHDvwLMoEdFh0g&usqp=CAU",
+      "description": "A group of new AI-powered search startups have emerged.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "How To Use Perplexity AI? A Complete Guide.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8MCtqm8b0oHYYuVO5RUUB7m6HDN7mcgcfw&usqp=CAU",
+      "description": "Perplexity AI, founded in 2022, is a search interface that uses OpenAI’s GPT model and Microsoft Bing to answer your queries..",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "Perplexity Ask: A Game-Changing Search Tool Powered by AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhWvCT7_3NoP7J0tBKTSy092TIC-0zd4hCQ&usqp=CAU",
+      "description": "Excited to share a game-changing tool that has improved my information search process ",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Artificial intelligence tools for marketing: Perplexity.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ysWNrJdDnF-bwudcL0euo-TyCU4XUFfF9Q&usqp=CAU",
+      "description": "This field of opportunities for brands, in the form of technology solutions, is changing the way in which many processes are approached.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": "Perplexity AI: Redefining the Landscape of Interactive Artificial Intelligence.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXl4FjJboZi9mi_fF2xiz5gMVH79eMFDgGw&usqp=CAU",
+      "description": "Perplexity AI is a chatbot that uses machine learning and Natural Language Processing (NLP) to respond to user questions",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "What is Perplexity AI?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtL_GScuLmE7IQYGmeDSrUGHZT3onVvQiAA&usqp=CAU",
+      "description": "Perplexity AI is an AI-powered search engine that provides accurate answers to complex questions by leveraging cutting-edge natural language processing and machine learning algorithms",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reskin",
+      "title": "ChatGPT Plus vs. Perplexity: Which Is the Better AI Chatbot?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEz3DeO8L2frCzkj9R8ipO6__zhP691iWYIg&usqp=CAU",
+      "description": "Technology: The Clash of GPT Generations.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reskin",
+      "title": "Perplexity AI: Strategies For Mastering A New Skill.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3rlz5T57VGxault-0JBy9wMbsDxbc4y2Og&usqp=CAU",
+      "description": "Mastering a new skill requires dedication and hard work, but it is not impossible.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reskin",
+      "title": "Perplexity, an intelligent tool for data search.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzVejYwmRMSHjPVqrqIgRPqmZEqxw2ANjWMQ&usqp=CAU",
+      "description": "The tool can handle complex questions involving multiple entities, attributes and conditions.",
+      "link": "https://belbuldevofficial.blogspot.com/p/p-14.html"
+    }
+  ]
+}
