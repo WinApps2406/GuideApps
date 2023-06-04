@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Tips For RedBox TV",
+      "image": "https://play-lh.googleusercontent.com/HjY6JJ1xCe5Bi_ctb9-gQ5I3I-2thGNfKvPQFQuL74aVFBM5PPmUjFtK11qOXLoMrDdH=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.guideredboxtv"
+    },
+	{
+      "id": 1,
+      "title": "Generative Ai Advices",
+      "image": "https://play-lh.googleusercontent.com/M19oWs9JeMJDR5NwS3D8vK6NLCTA7EmZvaCMFlZXjf16OwmsqBTRiEOKGf4lhx0rHw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.generativeaiadvices&hl=en"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " My Honest Review of Originality.AI [How Accurate Is It?] ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamlLtUKSryvb7eg1pCbcVFeenyHHUD3oa8A&usqp=CAU",
+      "description": " If you’re like me, you’re all on board with these new AI writing tools, but perhaps you’re also hearing about how Google is penalizing AI-only content ",
+      "link": "https://belbuldevofficial.blogspot.com/p/my-honest-review-of-originalityai-how.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Originality AI Review: Best AI Content Detecting Software?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFjLUfW-NghHj2ujECV8ifTcuW_NsypLfTuA&usqp=CAU",
+      "description": "Originality AI Review: Should You Use Originality.AI To Detect AI Content?",
+      "link": "https://belbuldevofficial.blogspot.com/p/originality-ai-review-best-ai-content.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "What Is Originality?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhDEofofjfIsy-NBMHWjwdox_1JsUquj6wg&usqp=CAU",
+      "description": "With the recent AI boom, I spent a few days researching the best solutions to check if something was written with AI. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/what-is-originality.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Originality.ai Review 2023- Worth Investing in Originality.ai AI Content Detection Software?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWY53DOndMwtCSr_mqF9SR-U8ipNBAsQosg&usqp=CAU",
+      "description": "Read my Originality.ai review for 2023 to learn whether this tool is worth your money or not.",
+      "link": "https://belbuldevofficial.blogspot.com/p/originalityai-review-2023-worth.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Originality.AI Allows Users to Quickly Detect AI Written Content With a Chrome Extension",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHLQJk46xjTqMruQDoql-QLKPbxDT_rKkuQ&usqp=CAU",
+      "description": "This is an especially pressing issue for web publishers who depend on original, written content.",
+      "link": "https://belbuldevofficial.blogspot.com/p/originalityai-allows-users-to-quickly.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Originality AI Free: Ensuring Content Authenticity in the Age of AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCxLnTsOHf9RIS2liHxN4Q_7lljaxPM7TyDw&usqp=CAU",
+      "description": "In the ever-evolving digital landscape of today, artificial intelligence has ushered in a new era of content creation and consumption.",
+      "link": "https://belbuldevofficial.blogspot.com/p/originality-ai-free-ensuring-content.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "DESCRIPTION OF ORIGINALITY.AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrRUFj0F7FsiH2OkcACG4xoP9JdX9PJpkPg&usqp=CAU",
+      "description": "Introducing Originality.AI.",
+      "link": "https://belbuldevofficial.blogspot.com/p/description-of-originalityai.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "How Originality.AI’s AI Detection Score Helps Discern Human-Written Content From AI-Generated Text.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOEZX-nhG30Or1wx6jkvkowdTuYlwdCCIBg&usqp=CAU",
+      "description": "Clearing the Confusion: Human-Written or AI-Generated Content?",
+      "link": "https://belbuldevofficial.blogspot.com/p/how-originalityais-ai-detection-score.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Can You Trust AI Content Detection Tools? Originality.ai Case Study.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lrCExtqVEny6y1qEkT9DrtIkQjV8UWdnwQ&usqp=CAU",
+      "description": "The results might surprise (and shock) you..",
+      "link": "https://belbuldevofficial.blogspot.com/p/can-you-trust-ai-content-detection.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": "Originality AI Review 2023: Does It 100% Accurate?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLpIHqHhvyhrUDaKZ7lW5gb8L9ubehDzhww&usqp=CAU",
+      "description": "Are you head over heels in search of an honest Orginality AI Review?",
+      "link": "https://belbuldevofficial.blogspot.com/p/originality-ai-review-2023-does-it-100.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "Originality AI Review 2023: The Game-Changing AI Writing Detection Tool!.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTet_xotXQb2HRCo0f3WXPmMRlehzkhyFBqGw&usqp=CAU",
+      "description": "Are you looking for a solution to ensure the originality and quality of your AI-generated content? Look no further than Originality AI",
+      "link": "https://belbuldevofficial.blogspot.com/p/originality-ai-review-2023-game.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reskin",
+      "title": "Is it worth your time and money? Read on to find out!.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qI9VPt5sXRUSIoddGWV9Ml0l2j7BnhKcWQ&usqp=CAU",
+      "description": "Originality.AI Overview.",
+      "link": "https://belbuldevofficial.blogspot.com/p/originalityai-review-more-than-just.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reskin",
+      "title": "ABOUT ORIGINALITY.AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAspzuk6l56qa7fxZ7kr_EYFbW-1_LJWbrg&usqp=CAU",
+      "description": "Use Cases for CopyGuard Plagiarism Checker and AI Detector.",
+      "link": "https://belbuldevofficial.blogspot.com/p/about-originalityai.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reskin",
+      "title": "Originality AI: Review, Walkthrough & Demo.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxSIFrigYU7plArTxGi-7T7EcdCVqGgiZwg&usqp=CAU",
+      "description": "On the other hand, if you’re being offered content created by AI, you probably want to know if it was created by AI.",
+      "link": "https://belbuldevofficial.blogspot.com/p/originality-ai-review-walkthrough-demo.html"
+    }
+  ]
+}
