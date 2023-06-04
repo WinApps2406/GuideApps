@@ -1,0 +1,155 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Tips For RedBox TV",
+      "image": "https://play-lh.googleusercontent.com/HjY6JJ1xCe5Bi_ctb9-gQ5I3I-2thGNfKvPQFQuL74aVFBM5PPmUjFtK11qOXLoMrDdH=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.guideredboxtv"
+    },
+	{
+      "id": 2,
+      "title": "Originality Ai App Advices",
+      "image": "https://play-lh.googleusercontent.com/iDCwaEgUIUDrBUxhkNAt2ivkJWEYodDehWdwBCqHLyY0fAnejtp7QGUN4RaHyK_xyw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.originalityaiadvices&hl=en"
+    },
+	{
+      "id": 3,
+      "title": "Generative Ai Advices",
+      "image": "https://play-lh.googleusercontent.com/M19oWs9JeMJDR5NwS3D8vK6NLCTA7EmZvaCMFlZXjf16OwmsqBTRiEOKGf4lhx0rHw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.generativeaiadvices&hl=en"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " How To Use The Pygmalion AI Chat Feature? ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB3IRt7HgSVGZa0lidDns0YC-Fb2L6VbJTbw&usqp=CAU",
+      "description": "Pygmalion AI is an open-source conversational and role-play language model project ",
+      "link": "https://belbuldevofficial.blogspot.com/p/how-to-use-pygmalion-ai-chat-feature.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "What is Pygmalion AI?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5sv61rRCmVOQKFYFi15QPkaP7gveY5D0Yg&usqp=CAU",
+      "description": "Pygmalion AI is an advanced language model developed with the objective of enabling human-like conversations and interactions",
+      "link": "https://belbuldevofficial.blogspot.com/p/what-is-pygmalion-ai.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Pygmalion AI in technical terms",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQA-AAN4bHVwGgaS8UzP7-xtx-xErSnh2Cw&usqp=CAU",
+      "description": "Some features of Pygmalion AI. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/pygmalion-ai-expectations-ability-to.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Pygmalion AI and How to Run It Locally",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dComBWzDcmCFg8G-MjlI4tWUZrzrFTw3FA&usqp=CAU",
+      "description": "Step-by-Step Guide to Use Pygmalion Locally",
+      "link": "https://belbuldevofficial.blogspot.com/p/pygmalion-ai-and-how-to-run-it-locally.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Unlock The Power Of Pygmalion AI For Your Business",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CTuGfGTmnIvryfJDGWaY-VsxUb1ghBOa5A&usqp=CAU",
+      "description": "About pygmalion ai.",
+      "link": "https://belbuldevofficial.blogspot.com/p/unlock-power-of-pygmalion-ai-for-your.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Explore Pygmalion AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRus0160J9yV8pFhKd8RPqLpa9EHrwBsiFF_Q&usqp=CAU",
+      "description": "Benefits of Pygmalion AI.",
+      "link": "https://belbuldevofficial.blogspot.com/p/explore-pygmalion-ai.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "Pygmalion AI 7B: The New King of Uncensored Roleplay AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbX0kHFDAWTYU0UtYdbh0u2qgwUn8BF1-8Q&usqp=CAU",
+      "description": "What Is Pygmalion AI?.",
+      "link": "https://belbuldevofficial.blogspot.com/p/pygmalion-ai-7b-new-king-of-uncensored.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "PYGMALION AI: AN AI-POWERED STORYTELLING PLATFORM THAT HELPS YOU CREATE IMMERSIVE AND INTERACTIVE STORIES.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVDkzXrTdYNAEqOZzjLi3NR154rdTcWYVHw&usqp=CAU",
+      "description": "WHAT IS PYGMALION AI?",
+      "link": "https://belbuldevofficial.blogspot.com/p/pygmalion-ai-ai-powered-storytelling.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "What Is the Pygmalion Effect? | Definition & Examples.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhApVgtuVAfnSwHw4PneA096-dDQ7NnZpCA&usqp=CAU",
+      "description": "Example: Pygmalion effect.",
+      "link": "https://belbuldevofficial.blogspot.com/p/what-is-pygmalion-effect-definition.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": "The Power of the Pygmalion Effect.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bVf_3saUZpk76C4ocD1OGKkEEZx00Ky5QA&usqp=CAU",
+      "description": "Teachers Expectations Strongly Predict College Completion",
+      "link": "https://belbuldevofficial.blogspot.com/p/the-power-of-pygmalion-effect.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "Tips for Using the Pygmalion Effect in Leadership.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiuRWRBD5IPyPf4GwwhbShJNOq-Ml5Dgp91w&usqp=CAU",
+      "description": "What is the Pygmalion effect?",
+      "link": "https://belbuldevofficial.blogspot.com/p/tips-for-using-pygmalion-effect-in.html"
+    }
+  ]
+}
