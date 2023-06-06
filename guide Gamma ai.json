@@ -1,0 +1,179 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Tips For RedBox TV",
+      "image": "https://play-lh.googleusercontent.com/HjY6JJ1xCe5Bi_ctb9-gQ5I3I-2thGNfKvPQFQuL74aVFBM5PPmUjFtK11qOXLoMrDdH=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.guideredboxtv"
+    },
+	{
+      "id": 2,
+      "title": "Originality Ai App Advices",
+      "image": "https://play-lh.googleusercontent.com/iDCwaEgUIUDrBUxhkNAt2ivkJWEYodDehWdwBCqHLyY0fAnejtp7QGUN4RaHyK_xyw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.originalityaiadvices&hl=en"
+    },
+	{
+      "id": 3,
+      "title": "Generative Ai Advices",
+      "image": "https://play-lh.googleusercontent.com/M19oWs9JeMJDR5NwS3D8vK6NLCTA7EmZvaCMFlZXjf16OwmsqBTRiEOKGf4lhx0rHw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.generativeaiadvices&hl=en"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " How to create presentations with Gamma AI ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKISlVRaoqf8dL9RL9aT4CdUa_KJZTf_DFhw&usqp=CAU",
+      "description": "Also read: What is Gamma AI? How to Use It? ",
+      "link": "https://belbuldevofficial.blogspot.com/p/how-to-create-presentations-with-gamma.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": " Gamma ai A Fascinating Comprehensive Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5uGrzasioe9tkTCLlXSw0KC-yAq-Kh9HNhA&usqp=CAU",
+      "description": "Gamma AI, specifically, aims to create systems that can reason, learn, and adapt in complex and dynamic environments, mimicking the way humans do",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-ai-fascinating-comprehensive-guide.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Gamma: Create Stunning AI-Powered Presentations with Ease",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSmlAnC_KanMzGcvi0sLph0hgWXSdjDdUmg&usqp=CAU",
+      "description": "Effortless Presentation Design at Your Fingertips. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-create-stunning-ai-powered.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Gamma is an AI-powered tool that simplifies creating stunning and engaging content",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWumCTe9LoQx1wjiWkwZ7CeUBVIDQIm09Q3w&usqp=CAU",
+      "description": "With Gamma, users can create polished presentations and documents for anything, even without any design experience",
+      "link": "https://belbuldevofficial.blogspot.com/p/a-new-medium-for-presenting-ideas.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Gamma App: A new medium for presenting ideas. Powered by AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlCZJbsRQquxPjlsRKDzPVlgZ70F28YKpHA&usqp=CAU",
+      "description": "In this article, we will explore the features of Gamma App and how it is changing the way we present our ideas.",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-app-new-medium-for-presenting.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Gamma AI: Pitch Decks and Presentations",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNze1QlLFcAfdmOk6Iv1EOmoVODtftavqwxg&usqp=CAU",
+      "description": "What's great about this?",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-ai-pitch-decks-and-presentations.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "Gamma is a web-based tool that enables users to create and present content with minimal formatting and design work.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZQNzlwOh3-62Pn7AtdpoAEEtL3gk1EAl7w&usqp=CAU",
+      "description": "Powered by AI, Gamma allows users to write and develop ideas, creating a polished and engaging medium for presenting those ideas",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-is-web-based.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "ABOUT GAMMA.AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iNXNtfZTFLP9lovkRvV-8zTU-qsOCkKv-w&usqp=CAU",
+      "description": "Gamma.ai helps developers to protect their applications and data from unauthorized access, quickly and effortlessly",
+      "link": "https://belbuldevofficial.blogspot.com/p/about-gammaai.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Gamma App: AI tool to create interactive content",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9-ALd3w94LoLDCJrdQWDE60BMdbY69zJ4w&usqp=CAU",
+      "description": "Do you want to create interactive content easily and quickly?.",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-app-ai-tool-to-create-interactive.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": " Gamma AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhe3cDdoRvEeD9IRkSTROR-8DIXleApjc8w&usqp=CAU",
+      "description": "Gamma is an easy-to-use presentation software that offers an alternative to traditional slide-based presentations",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "I Used An AI To Make A Presentation.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtk7jQbbPkdC_NrQeSaXOGlnMmbCyKA3Mmg&usqp=CAU",
+      "description": "So many companies are shifting their focus to the use of Artificial Intelligence (AI) as a long-awaited solution to make the process of working on tedious, manual tasks faster and easier",
+      "link": "https://belbuldevofficial.blogspot.com/p/i-used-ai-to-make-presentation.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reskin",
+      "title": "AI for Good Global Summit 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZJ_Lx1yroR0jNFnq0L2rr6aU3M7nMVRNQw&usqp=CAU",
+      "description": "We have less than 10 years to solve the United Nations’ Sustainable Development Goals",
+      "link": "https://belbuldevofficial.blogspot.com/p/ai-for-good-global-summit-2023.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reskin",
+      "title": " Gamma is a new AI-powered platform for conveying ideas.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBs5veYev7kku6KHKIcEwrBazLxjkEEXgHGQ&usqp=CAU",
+      "description": "Begin creating gorgeous, engaging content without any formatting or design effort.",
+      "link": "https://belbuldevofficial.blogspot.com/p/gamma-is-new-ai-powered-platform-for.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reskin",
+      "title": "About gamma ai.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAg15iJcCfv-VXlizmHv3ARgz-BSJsIRpfDA&usqp=CAU",
+      "description": "We are going to start the discussion about GAMMA AI as per our readers’ demands and comments. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/about-gamma-ai.html"
+    }
+  ]
+}
