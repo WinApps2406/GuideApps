@@ -28,15 +28,15 @@
    "More": [
     {
       "id": 1,
-      "title": "Panduan Sholat Tarawih",
-      "image": "https://play-lh.googleusercontent.com/gQ9swJs9l3TNzS43AFnCiHLDaOiG0H8j99VoJDOgfwz88ToRgrv_frVI5LXCnykm020=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.panduansholattarawih"
+      "title": "Animated Panda Gemoy WASticker",
+      "image": "https://play-lh.googleusercontent.com/fWbt8b7Scm3-8cZE-10_i08zr8sKUJO6PgsXmTcFFBcj2RBnSkWaRstH2rVwzs_XFvg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedpandagemoywasticker"
     },
     {
       "id": 2,
-      "title": "Resep Masakan Ramadhan Lengkap",
-      "image": "https://play-lh.googleusercontent.com/sYX0LTVJIuELlCxgHU88xTNUDM7ukcT3w_wCFFkw1AmKT4wZQ-P6kFADZFQpKxsOvBQ=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.resepmasakanramadhanlengkap"
+      "title": "Animated Sugar Brownie Sticker",
+      "image": "https://play-lh.googleusercontent.com/2MZBJQdAo-b4DBP7RhXUjA_m_GKLCORyHYLvwwUBis57mcHqXUchEyRF_B9ppbjUnA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedsugarbrowniesticker"
     }
   ],
   "Categories": [
@@ -60,42 +60,18 @@
     {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "How to check your or someone else’s car insurance",
-      "image": "https://www.carguide.co.uk/wp-content/uploads/2020/10/askmid.png",
-      "description": "Most car owners are aware that you must have any vehicles registered in your name insured at all times",
-      "link": "https://guideappsofficial.blogspot.com/p/how-to-check-your-or-someone-elses-car.html"
+      "title": " What is stability artificial intelligence?",
+      "image": "https://img.semafor.com/fa73a1e4b0bce87ef003a78689a7439c70ffb17a-3543x2362.png?w=1400&q=75&auto=format",
+      "description": "Stability AI develops open AI models for image",
+      "link": "https://guideappsofficial.blogspot.com/p/what-is-stability-artificial.html"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "How do I know if I have a valid insurance policy?",
-      "image": "https://bobatoo.co.uk/uploads/images/askmid-how-to-check-car-insurance-5114a0b6_52c4358e.jpg",
-      "description": "Whether you’ve recently purchased a car or have had it for years",
-      "link": "https://guideappsofficial.blogspot.com/p/how-do-i-know-if-i-have-valid-insurance.html"
-    },
-    {
-      "id": 3,
-      "name_category": "Tutorial",
-      "title": "How does askMID work?",
-      "image": "https://wvl.co.uk/wp-content/uploads/2015/04/mid-featured.jpg",
-      "description": "There is only one central database that holds information about insured vehicles in the UK: the motor insurance database",
-      "link": "https://guideappsofficial.blogspot.com/p/how-does-askmid-work.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Tutorial",
-      "title": "What if my insurance details aren't showing on askMID?",
-      "image": "https://storage.googleapis.com/ti-mustard/media-gallery/2017/06/Ask-MID.png",
-      "description": "If you’ve only recently taken out an insurance policy",
-      "link": "https://guideappsofficial.blogspot.com/p/what-if-my-insurance-details-arent.html"
-    },
-    {
-      "id": 5,
-      "name_category": "Tutorial",
-      "title": "What else should I know about my vehicle?",
-      "image": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/4d3a3538ee68-shutterstock341724065.jpg",
-      "description": "Driving or owning a vehicle without valid insurance is illegal",
-      "link": "https://guideappsofficial.blogspot.com/p/what-if-my-insurance-details-arent.html"
+      "title": "Who is behind Stability AI?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTku_7DIbAw4NVZ27-5rmixYFZ6QZ4hFVjgKg&usqp=CAU",
+      "description": "Stability AI became a $1 billion company with the help of a viral ",
+      "link": "https://guideappsofficial.blogspot.com/p/who-is-behind-stability-ai.html"
     }
   ]
 }
