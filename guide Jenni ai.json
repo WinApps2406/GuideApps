@@ -1,0 +1,179 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Tips For RedBox TV",
+      "image": "https://play-lh.googleusercontent.com/HjY6JJ1xCe5Bi_ctb9-gQ5I3I-2thGNfKvPQFQuL74aVFBM5PPmUjFtK11qOXLoMrDdH=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.guideredboxtv"
+    },
+	{
+      "id": 2,
+      "title": "Originality Ai App Advices",
+      "image": "https://play-lh.googleusercontent.com/iDCwaEgUIUDrBUxhkNAt2ivkJWEYodDehWdwBCqHLyY0fAnejtp7QGUN4RaHyK_xyw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.originalityaiadvices&hl=en"
+    },
+	{
+      "id": 3,
+      "title": "Generative Ai Advices",
+      "image": "https://play-lh.googleusercontent.com/M19oWs9JeMJDR5NwS3D8vK6NLCTA7EmZvaCMFlZXjf16OwmsqBTRiEOKGf4lhx0rHw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.BelBulDev.generativeaiadvices&hl=en"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " What Is Jenni.ai? ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdupIwlvTRO5J6oVtdDJ8UGxCdKxFBSAHCw&usqp=CAU",
+      "description": "Overall, Jenni is a great writing assistant tool that leverages the skills of the user with the power of Artificial Intelligence ",
+      "link": "https://belbuldevofficial.blogspot.com/p/what-is-jenniai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "This is a comprehensive review of Jenni.ai",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSwX6w9atrDSVaL7OMp30gJCOI7my8kUpLw&usqp=CAU",
+      "description": "I’ve run extensive tests on Jenni to see whether it actually performs as promised or not",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenniai-is-ai-writing-assistant-that.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Jenni AI review: What is Jenni AI?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCLmFxOHkN5FTqgmq3hjByRDg6gQoKs0CxQ&usqp=CAU",
+      "description": "Students were the first to embrace the AI tool, and it quickly gained a reputation as one of the best essay writers. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenni-ai-review-what-is-jenni-ai.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Jenni.ai Review: Is it worth it for writers?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhTLGbgqK56Ty1LKazVnjrtl6ofNY73fHTw&usqp=CAU",
+      "description": "Yes, it’s another AI tool review! This time I’m wading into Jenni AI, an AI writing tool that promises to supercharge your content creation with high-quality content",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenniai-review-is-it-worth-it-for.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": " The 10 Best FREE AI Writing Tools 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lAFsQrosX2BKD8Aaa0kuu6N2OamBr8-LFw&usqp=CAU",
+      "description": "Being able to write effectively is an essential skill if you want to get top grades, grow an audience or make money online.",
+      "link": "https://belbuldevofficial.blogspot.com/p/the-10-best-free-ai-writing-tools-2023.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "9 Best AI Writing Tools for Essays, Business, and Blogs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYmixOukHSLZNp90jk7QXd3FogIAXmjdZPg&usqp=CAU",
+      "description": "The major benefit is the time you save when you use an AI writing tool.",
+      "link": "https://belbuldevofficial.blogspot.com/p/9-best-ai-writing-tools-for-essays.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": " Jenni AI: Powerful digital writer assistant for creating articles, blog posts, and social media content.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BW-ObFmQEBKIcigDk3-nMbkV9_jH0s-ADg&usqp=CAU",
+      "description": "By creating a free account and trying some of Jenni’s features, you can practice with the SEO writer tool and supercharge your SEO work.",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenni-ai-writing-assistant-is-highly.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "5 Best Jenni AI Alternatives (2023) – Which AI Writing Tool?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1DTmzRbgdlboUcdCDHqwVYngHnQgaKzN3A&usqp=CAU",
+      "description": "So you heard about Jenni AI, but you’re wondering if there are similar AI assistants that can better meet your needs? Look no further",
+      "link": "https://belbuldevofficial.blogspot.com/p/which-ai-writing-tool.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "How to Write an Essay on Any Topic Using AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NBlKsfdxzLqVb9KTEDI3pdtkz_l3NRmOGg&usqp=CAU",
+      "description": "AI has made it possible for just about anyone to become a writer and make a living on the internet by providing marketing content.",
+      "link": "https://belbuldevofficial.blogspot.com/p/how-to-write-essay-on-any-topic-using-ai.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": "Jenni AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf76hBtTm9_J0x1CA_i6V5MOtogjGFgXJLNw&usqp=CAU",
+      "description": "Its key features include AI autocompletion, a built-in plagiarism checker, citation finding, and text transformation",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenni-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "AI Writing software promises to revolutionize the world of content and copywriting.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjNbqcaJz_Gcm8YziqSrlm45Mli-0ImHEaA&usqp=CAU",
+      "description": "But as it stands right now, AI writing assistants are just that: assistants that can pick up some of the content slack",
+      "link": "https://belbuldevofficial.blogspot.com/p/ai-writing-software-promises-to.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reskin",
+      "title": "Jenni AI Writer: A Revolutionary AI-Powered Writing Assistant.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgaulqkKuq7BD9IjrxrUCc2n-db_j_Vyb2PA&usqp=CAU",
+      "description": "Jenni.AI is one such innovation that has revolutionized the way we interact with technology.",
+      "link": "https://belbuldevofficial.blogspot.com/p/jenni-ai-writer-revolutionary-ai.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reskin",
+      "title": "Jenni AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-R37g2Nl-hnpGFDuKtBJYt0hZnny1LXKgg&usqp=CAU",
+      "description": "Top AI Tools for Academic Writing",
+      "link": "https://belbuldevofficial.blogspot.com/p/top-ai-tools-for-academic-writing.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reskin",
+      "title": "Looking for a Free AI-Powered Writing Assistant Capable of Essay Writing and Outlining? Read on!.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBHVOX89_t8Nq1zl6ilcCjdRVTJCQntbZzQ&usqp=CAU",
+      "description": "The Good AI is a free powerful tool that can help students, researchers, and professional writers improve their writing skills by creating high-quality content",
+      "link": "https://belbuldevofficial.blogspot.com/p/looking-for-free-ai-powered-writing.html"
+    }
+  ]
+}
