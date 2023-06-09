@@ -1,0 +1,85 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Animated Bubu & Dudu WASticker",
+      "image": "https://play-lh.googleusercontent.com/TNEuY39fti8jIXlgVRG_MMeyph6KPE_kiulb6RWsHEIPUPo17ena5WdeZmdnC5yiIw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedbubududuwasticker"
+    },
+    {
+      "id": 2,
+      "title": "Animated Mochi Cat WASticker",
+      "image": "https://play-lh.googleusercontent.com/2Jb5jQsME1ESphLB6z306wAkcS4Gei5pk35RC-Ex_dvXPZ9ez0BE0AEsmHSHkxe3eKQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedmochicatwasticker"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Finch3D: automates the generation of floor plans",
+      "image": "https://aecmag.com/wp-content/uploads/2023/01/massing.jpg",
+      "description": "Based in Malmö, Sweden, Finch was founded by Pamela Nunez Wallgren, Jesper Wallgren and Martin Kretz. As with many start-ups in the AEC industry, the idea for Finch3D came directly from the founders’ need for better tools in their own architectural practice.",
+      "link": "https://guideappsofficial.blogspot.com/p/finch3d-automates-generation-of-floor.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Finch gets serious",
+      "image": "https://aecmag.com/wp-content/uploads/2023/01/iterative-space-plans.jpg",
+      "description": "With thousands signing up for early access to Finch, things got serious",
+      "link": "https://guideappsofficial.blogspot.com/p/finch-gets-serious.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Automation impact",
+      "image": "https://aecmag.com/wp-content/uploads/2023/01/Finch_generate_plan-use-this-one.jpg",
+      "description": "With so many AI-based and/or generative tools coming onto the market, what does Nunez Wallgren expect the impact of automation to be on the industry?",
+      "link": "https://guideappsofficial.blogspot.com/p/automation-impact.html"
+    }
+  ]
+}
