@@ -1,0 +1,165 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Animated Bubu & Dudu WASticker",
+      "image": "https://play-lh.googleusercontent.com/TNEuY39fti8jIXlgVRG_MMeyph6KPE_kiulb6RWsHEIPUPo17ena5WdeZmdnC5yiIw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedbubududuwasticker"
+    },
+    {
+      "id": 2,
+      "title": "Animated Mochi Cat WASticker",
+      "image": "https://play-lh.googleusercontent.com/2Jb5jQsME1ESphLB6z306wAkcS4Gei5pk35RC-Ex_dvXPZ9ez0BE0AEsmHSHkxe3eKQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedmochicatwasticker"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "What is Pacdora",
+      "image": "https://i0.wp.com/blog.pacdora.com/wp-content/uploads/2022/11/Cookie-Packaging-Design.jpeg?resize=360%2C240&ssl=1&is-pending-load=1",
+      "description": "Pacdora is an online packaging design tool that integrates editing",
+      "link": "https://guideappsofficial.blogspot.com/p/what-is-pacdora.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Product Packaging: A Complete Guide to Product Packaging",
+      "image": "https://i0.wp.com/blog.pacdora.com/wp-content/uploads/2022/08/featured-packaging.jpg?resize=1024%2C439&ssl=1",
+      "description": "The ecommerce landscape has shifted significantly in the last ten years",
+      "link": "https://guideappsofficial.blogspot.com/p/product-packaging-complete-guide-to.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "1. Considerations Before Product Packaging Design",
+      "image": "https://cloud.pacdora.com/v/index1.7.1/Paper-Bag.webp",
+      "description": "Before getting started with the process, it’s important to take a step back and assess your product packaging needs.",
+      "link": "https://guideappsofficial.blogspot.com/p/1-considerations-before-product.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "2. Measuring Packaging",
+      "image": "https://cloud.pacdora.com/v/index1.7.1/Cup-Container.webp",
+      "description": "The dimensions of a box are very important for several reasons.",
+      "link": "https://guideappsofficial.blogspot.com/p/2-measuring-packaging.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "3. Finding your types of Product Packaging",
+      "image": "https://i0.wp.com/blog.pacdora.com/wp-content/uploads/2022/08/image-18.png?resize=1024%2C533&ssl=1",
+      "description": "There are many different types of product packaging, and each has its own advantages and disadvantages. ",
+      "link": "https://guideappsofficial.blogspot.com/p/3-finding-your-types-of-product.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "4. Understanding Packaging Printing Types",
+      "image": "https://assets-global.website-files.com/6001b7dbeed0a8711afcfaeb/604a70b7f1f4848c7c59f320_1460X600_TypesOfPrinting_CI.jpg",
+      "description": "Once you’ve decided on the right packaging for your business, you’ll need to choose a printing method.",
+      "link": "https://guideappsofficial.blogspot.com/p/4-understanding-packaging-printing-types.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "5. Colors in Printing",
+      "image": "https://i0.wp.com/blog.pacdora.com/wp-content/uploads/2022/08/rgb-cmyk-pms.webp?w=1001&ssl=1",
+      "description": "CMYK, also known as Cyan, Magenta, Yellow, and Key (Black), is the default color mode for printing. This process allows for an unlimited number of color combinations and possibilities in your artwork.",
+      "link": "https://guideappsofficial.blogspot.com/p/5-colors-in-printing.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "6. Finding a Coating",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XFv6Vy6qCwQm732j1VXIvNiWChz5qEJbV4DX3ffcuLJ4xWu5iDytg1lLKV9MZwKlVh4&usqp=CAU",
+      "description": "A coating can be applied to complete the look while offering additional packaging protection and enhancement to the print quality.",
+      "link": "https://guideappsofficial.blogspot.com/p/6-finding-coating.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "7. Exploring Special Finishes",
+      "image": "https://cdn.dribbble.com/users/5805424/screenshots/14185043/media/4991abd806db27729f7ce30bb90bd48f.png?resize=400x0",
+      "description": "There are a few special processes you can use to enhance your packaging and make it more eye-catching.",
+      "link": "https://guideappsofficial.blogspot.com/p/7-exploring-special-finishes.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "8. Packaging Design",
+      "image": "https://cdn.pacdora.com/image-resize/300xauto/preview/mockup-366011.jpg",
+      "description": "Good design is important to drawing attention and evoking a positive consumer response.",
+      "link": "https://guideappsofficial.blogspot.com/p/8-packaging-design.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "9. Preparing Dielines",
+      "image": "https://zippypixels.com/wp-content/uploads/2016/03/01-free-cardboard-box-mockup-824x542.jpg",
+      "description": "Now that you have your design in place and are looking to get it transferred over to the structure template, a.k.a the dieline, there are a few things that your designated designer will need to take note of.",
+      "link": "https://guideappsofficial.blogspot.com/p/9-preparing-dielines.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "10. Prototyping",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBw4s5qtDsq0HnVN6sx8PDwHfo4cBtFW70xQ&usqp=CAU",
+      "description": "Before going into full production with your custom product, you can request a prototype to test out the design.",
+      "link": "https://guideappsofficial.blogspot.com/p/10-prototyping.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "11. Production and Shipping",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RDmgcPkGgVH2eOFAk1szbQyPhhCDDthSzeRywU66w9BPb5-CNZACQ7sEpCKUA7hzB20&usqp=CAU",
+      "description": "Once you’re done with all of the paperwork, your product’s packaging is good to go for mass production!",
+      "link": "https://guideappsofficial.blogspot.com/p/11-production-and-shipping.html"
+    }
+  ]
+}
